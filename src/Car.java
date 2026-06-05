@@ -3,6 +3,6 @@ public class Car {
      int speed;
 
      public void drive(){
-         System.out.println(brand+" is driving at a speed of"+speed);
+         System.out.println(brand+" is driving at a speed of "+speed);
      }
 }
