@@ -5,7 +5,7 @@ public class student {
     String name;
     int age;
 
-    student(String a , int b){
+     public student(String a , int b){
         name = a;
         age  = b;
     }
